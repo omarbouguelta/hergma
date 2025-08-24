@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="255" height="255" viewBox="0 0 255 255">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="back" width="255" height="255" transform="translate(85.918 194.918)" fill="#f5f5f5"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.488" y1="-0.011" x2="0.512" y2="1.041" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#faffff"/>
+      <stop offset="0.55" stop-color="#faffff"/>
+      <stop offset="1" stop-color="#e5f9f6"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.467" y1="-0.124" x2="0.54" y2="1.121" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f4f5f9"/>
+      <stop offset="1" stop-color="#d2d4e0"/>
+    </linearGradient>
+  </defs>
+  <g id="no_chat_found" transform="translate(17892 5782)">
+    <g id="no_chat_found-2" data-name="no_chat_found" transform="translate(-17977.918 -5976.918)" clip-path="url(#clip-path)">
+      <g id="no_chat_found-3" data-name="no chat found" transform="translate(86 195.602)">
+        <path id="back-2" data-name="back" d="M254.548,126.694h0a126.492,126.492,0,0,1-7.19,42.177q-.6,1.7-1.243,3.37a126.372,126.372,0,0,1-14.668,27.41l-.106.15-.144.2-.007.01a126.537,126.537,0,0,1-103.335,53.375h0A126.67,126.67,0,0,1,1.161,126.694h0A126.694,126.694,0,0,1,127.854,0h0A126.694,126.694,0,0,1,254.548,126.694Z" transform="translate(0.289)" fill="url(#linear-gradient)"/>
+        <g id="illustrator" transform="translate(-52.5 84.003)">
+          <g id="message" transform="translate(180, 43.5) scale(1.4) translate(-180, -43.5)">
+            <path id="Path_14586" data-name="Path 14586" d="M185.7,97.541H138.417a2.852,2.852,0,0,0-2.1.924l-5.717,6.226a2.853,2.853,0,0,1-4.955-1.962l.026-2.3a2.854,2.854,0,0,0-2.853-2.886h-.51a5.236,5.236,0,0,1-5.236-5.236V47.067a5.236,5.236,0,0,1,5.236-5.236H185.7a5.236,5.236,0,0,1,5.236,5.236V92.306a5.236,5.236,0,0,1-5.236,5.236Z" transform="translate(29.174 -34.678)" fill="url(#linear-gradient-2)"/>
+               <g id="not_found" data-name="not found" transform="translate(115.052 11.578)">
+              <circle id="Ellipse_236" data-name="Ellipse 236" cx="9.428" cy="9.428" r="9.428" transform="translate(59.247 14.35)" fill="#fa6e53" opacity="0.2"/>
+              <path id="Path_14628" data-name="Path 14628" d="M150.42,70.222l-7.056-7.056a1.751,1.751,0,0,1,0-2.47h0a1.751,1.751,0,0,1,2.47,0l7.056,7.056a1.751,1.751,0,0,1,0,2.47h0A1.751,1.751,0,0,1,150.42,70.222Z" transform="translate(-79.452 -41.682)" fill="#fff"/>
+              <path id="Path_14629" data-name="Path 14629" d="M152.89,63.166l-7.056,7.056a1.751,1.751,0,0,1-2.47,0h0a1.751,1.751,0,0,1,0-2.47L150.42,60.7a1.751,1.751,0,0,1,2.47,0h0A1.751,1.751,0,0,1,152.89,63.166Z" transform="translate(-79.452 -41.682)" fill="#fff"/>
+              <path id="Path_14630" data-name="Path 14630" d="M141.219,49.533A22.143,22.143,0,0,0,136.9,85.613l2.762-2.68a18.307,18.307,0,1,1,26.174-25.4l2.763-2.681a22.148,22.148,0,0,0-27.382-5.323Z" transform="translate(-82.785 -44.984)"/>
+              <path id="Path_25461" data-name="Path 25461" d="M141.219,49.533A22.143,22.143,0,0,0,136.9,85.613l2.762-2.68a18.307,18.307,0,1,1,26.174-25.4l2.763-2.681a22.148,22.148,0,0,0-27.382-5.323Z" transform="translate(-82.785 -44.984)" fill="#549C22" opacity="0.7"/>
+              <path id="Path_14631" data-name="Path 14631" d="M167.745,59.525a18.976,18.976,0,1,0-7.83,25.668A18.976,18.976,0,0,0,167.745,59.525ZM159.6,84.6a18.307,18.307,0,1,1,7.554-24.763A18.307,18.307,0,0,1,159.6,84.6Z" transform="translate(-82.154 -44.354)" fill="#549C22"/>
+              <circle id="Ellipse_237" data-name="Ellipse 237" cx="18.307" cy="18.307" r="18.307" transform="translate(50.535 5.785)" fill="#fa6e53" opacity="0.1"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
